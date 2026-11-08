@@ -1,5 +1,5 @@
 import { DISCLAIMER_TEXT } from '@/data/content';
-import swin from './swin.png';
+import swin from './swin.webp';
 
 export function Disclaimer({ className = '' }: { className?: string }) {
   return (
